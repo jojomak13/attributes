@@ -1,0 +1,29 @@
+{
+    "name": "joseph/attributes",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Joseph\\Attributes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jojomak13",
+            "email": "jojomak350@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "illuminate/support": "^11.38",
+        "illuminate/console": "^11.38",
+        "illuminate/filesystem": "^11.38"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Joseph\\Attributes\\AttributesServiceProvider"
+            ]
+        }
+    }
+}

@@ -1,0 +1,20 @@
+<?php
+
+namespace {{ namespace }};
+
+use Attribute;
+use Joseph\Attributes\Concerns\ICustomAttribute;
+
+#[Attribute(Attribute::TARGET_METHOD)]
+class {{ class }} implements ICustomAttribute
+{
+    public function __construct()
+    {
+        //
+    }
+
+    public function handle()
+    {
+        //
+    }
+}
