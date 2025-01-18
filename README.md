@@ -5,7 +5,7 @@ This package provides the ability to create custom attributes for Laravel contro
 ## Installation
 
 ```bash
-composer require joseph/attributes
+composer require jojomak13/attributes
 ```
 
 ## Basic Usage
@@ -99,4 +99,4 @@ In this example, the `PolicyAttribute` will check if the current user has permis
 - The `HasAttributes` trait is required for attribute functionality
 - Custom attributes must implement the `ICustomAttribute` interface
 
-For more advanced usage and additional examples, please refer to the [package documentation](link-to-docs).
+For more advanced usage and additional examples, please refer to the [package documentation](https://github.com/jojomak13/attributes).

@@ -1,5 +1,6 @@
 {
-    "name": "joseph/attributes",
+    "name": "jojomak13/attributes",
+    "description": "This package provides the ability to create custom attributes for Laravel controllers. You can use these attributes to add functionality like authorization, validation, or any other custom behavior to your controller methods.",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -14,7 +15,7 @@
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php": ">=8.0",
         "illuminate/support": "^11.38",
         "illuminate/console": "^11.38",
         "illuminate/filesystem": "^11.38"
