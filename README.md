@@ -1,3 +1,9 @@
+![Packagist License](https://img.shields.io/packagist/l/jojomak13/laravel-attributes)
+![Packagist Downloads](https://img.shields.io/packagist/dd/jojomak13/laravel-attributes)
+![Packagist Version](https://img.shields.io/packagist/v/jojomak13/laravel-attributes)
+![Packagist Stars](https://img.shields.io/packagist/stars/jojomak13/laravel-attributes)
+
+
 # Laravel Attributes
 
 This package provides the ability to create custom attributes for Laravel controllers. You can use these attributes to add functionality like authorization, validation, or any other custom behavior to your controller methods.
