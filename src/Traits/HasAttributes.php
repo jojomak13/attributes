@@ -36,12 +36,12 @@ trait HasAttributes
     /**
      * Call a controller action with custom attribute handling.
      *
-     * @param string $method
-     * @param array $parameters
+     * @param $method
+     * @param $parameters
      * @return mixed
      * @throws ReflectionException
      */
-    public function callAction(string $method, array $parameters): mixed
+    public function callAction($method, $parameters): mixed
     {
         $reflection = new ReflectionMethod($this, $method);
 
