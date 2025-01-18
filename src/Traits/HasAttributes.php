@@ -9,7 +9,7 @@ use ReflectionException;
 use ReflectionMethod;
 
 /**
- * Trait HasCustomAttributes.
+ * Trait HasAttributes.
  *
  * This trait allows Laravel controllers to handle custom PHP attributes on controller methods.
  * Attributes are metadata annotations that can be added to classes, methods, or properties.
