@@ -1,5 +1,5 @@
 {
-    "name": "jojomak13/attributes",
+    "name": "jojomak13/laravel-attributes",
     "description": "This package provides the ability to create custom attributes for Laravel controllers. You can use these attributes to add functionality like authorization, validation, or any other custom behavior to your controller methods.",
     "type": "library",
     "license": "MIT",

@@ -5,7 +5,7 @@ This package provides the ability to create custom attributes for Laravel contro
 ## Installation
 
 ```bash
-composer require jojomak13/attributes
+composer require jojomak13/laravel-attributes
 ```
 
 ## Basic Usage
